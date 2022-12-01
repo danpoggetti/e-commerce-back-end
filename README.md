@@ -84,6 +84,8 @@ Insomnia<br>
 
 Below you'll be able to see screen shots of the deployed app. You can also view the road map to see how you can test it locally.
 
+![](./screen_grab.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
